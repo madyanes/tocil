@@ -1,0 +1,22 @@
+{
+  "name": "tocil",
+  "version": "1.0.0",
+  "description": "Toko Kecil",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madyanes/tocil.git"
+  },
+  "author": "Madyan Eka S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madyanes/tocil/issues"
+  },
+  "homepage": "https://github.com/madyanes/tocil#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
